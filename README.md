@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" width="100%" src="https://ibb.co/XxmSTQC">
+<img align="center" alt="Banner" width="100%" src="https://i.ibb.co/4RBPxqV/Screenshot-8.png">
 
 # ***Привет***
 ## ***Меня зовут Алексей***
