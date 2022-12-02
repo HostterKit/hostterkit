@@ -1,4 +1,4 @@
-![Banner](./hostterkit/assets/Screenshot_8.png)
+<img src="./hostterkit/assets/Screenshot_8.png" width="100%"/>
 
 # ***Привет***
 ## ***Меня зовут Алексей***
