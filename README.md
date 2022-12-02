@@ -1,4 +1,4 @@
-![krasivo](assets/Screenshot_8.png)
+![krasivo](https://ibb.co/XxmSTQC)
 
 # ***Привет***
 ## ***Меня зовут Алексей***
