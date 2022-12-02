@@ -1,4 +1,4 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://i.yapx.ru/U80NW.jpg" width="100"/>
 </div>
 
