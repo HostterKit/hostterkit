@@ -1,4 +1,4 @@
-![Banner](C:\Program Files\Git\hostterkit\assets\Screenshot_8.png)
+![Banner](./hostterkit/assets/Screenshot_8.png)
 
 # ***Привет***
 ## ***Меня зовут Алексей***
