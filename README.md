@@ -1,4 +1,4 @@
-![krasivo](https://ibb.co/XxmSTQC)
+<img align="center" alt="Banner" width="100%" src="https://ibb.co/XxmSTQC">
 
 # ***Привет***
 ## ***Меня зовут Алексей***
